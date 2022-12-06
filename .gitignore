@@ -1,4 +1,4 @@
-# Logs
+npm install --save @solana/web3.j# Logs
 logs
 *.log
 npm-debug.log*
